@@ -1,0 +1,7 @@
+cd kingvon-site
+git init
+git add .
+git commit -m "Initial commit - KINGVON site"
+git branch -M main
+git remote add origin https://github.com/SilverTosh/kingvon-site.git
+git push -u origin main
